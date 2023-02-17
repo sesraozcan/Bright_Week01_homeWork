@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\bin\Debug\net7.0\Odev02_04_02_2023.exe
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\bin\Debug\net7.0\Odev02_04_02_2023.deps.json
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\bin\Debug\net7.0\Odev02_04_02_2023.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\bin\Debug\net7.0\Odev02_04_02_2023.dll
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\bin\Debug\net7.0\Odev02_04_02_2023.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.dll
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\refint\Odev02_04_02_2023.dll
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\Odev02_04_02_2023.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Belgeler\GitHub\Week1\Week01_homework\Odev02_04_02_2023\Odev02_04_02_2023\obj\Debug\net7.0\ref\Odev02_04_02_2023.dll
