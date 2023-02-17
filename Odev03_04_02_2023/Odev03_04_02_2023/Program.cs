@@ -24,7 +24,7 @@ namespace Odev03_04_02_2023
             else if (usSayi != 2 || usSayi!= 3)
             {
                 Console.WriteLine("Lütfen üs olarak 2 veya 3 değerlerini giriniz");
-                aa
+                
             }
           
         }
